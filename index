@@ -1,0 +1,186 @@
+
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+<meta name="apple-mobile-web-app-title" content="《诛仙手游》官方网站">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://zx.wanmei.com/mobile/images/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://zx.wanmei.com/mobile/images/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://zx.wanmei.com/mobile/images/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon-precomposed" href="http://zx.wanmei.com/mobile/images/apple-touch-icon-52x52.png">
+
+<link rel="stylesheet" href="http://zx.wanmei.com/mobile/style/base.css">
+<link rel="stylesheet" href="http://zx.wanmei.com/mobile/style/nav.css">
+<link rel="stylesheet" href="http://zx.wanmei.com/mobile/style/swiper.3.1.2.min.css">
+
+<script type="text/javascript" src="http://www.wanmei.com/public/js/wm.js" top="false" bottom="false"></script>
+
+<title>《诛仙手游》官方网站 - 情憾九天·一剑诛仙</title>
+<link rel="stylesheet" href="http://zx.wanmei.com/mobile/style/base.css">
+<link rel="stylesheet" href="http://zx.wanmei.com/mobile/style/nav.css">
+<link rel="stylesheet" href="http://zx.wanmei.com/mobile/style/swiper.3.1.2.min.css">
+<link rel="stylesheet" href="http://zx.wanmei.com/mobile/style/welcome.css">
+</head>
+<body>
+   <div class="bottomnew">
+    <a href="" class="yuyue">立即预约</a> 
+    </div>
+<div class="swiper-container swiper-container-h">
+    <div class="swiper-wrapper">
+        <div class="swiper-slide slide1  " >
+          <div class="slide_cont">
+
+            <div class="biyaotext">
+            	<a href="http://zx.wanmei.com/mobile/biyao.html">
+               <div class="biyaotext1"></div>
+               <div class="biyaotext2"></div>
+              </a>
+              
+            </div>
+            
+
+
+
+
+
+
+           
+          </div>
+          <!-- <div class="bottom">
+          <a href="" class="yuyue">立即预约</a> 
+          </div> -->
+        </div>
+        
+        <div class="swiper-slide slide2 ">
+          <div class="swiper-container swiper-container-v">
+                      <div class="swiper-wrapper">
+                          <div class="swiper-slide">
+                <div class="swiper-slide slide2 ">
+
+
+                  <div class="slide_cont">
+                  
+                    <div class="slogan"></div>
+                    
+                    </div>
+                    
+                    
+                    
+                    
+                  <div class="buttonwraper">
+                    <div class="biyao"></div>
+                    <div class="xueqi"></div>
+                  </div>
+                
+                </div>
+                   
+                          </div>
+
+                          <div class="swiper-slide slide22">
+                            <div class="logo"></div>
+                            <div class="socialwraper">
+                              <div class="qrcodetitle">
+                                <!-- 字体最小为6px所以文字长度被限制  图片长度也被限制 -->
+                                搜索官方公众号：诛仙手游OOXX
+                              </div>
+                              <div class="qrcode"><img src="http://zx.wanmei.com/images/qrcode.jpg" alt="诛仙公众号二维码"></div>
+                              <div class="qrcodebottom">字体字体字体字体字体字体字体字体</div>
+                              <div class="sharetitle">
+                                <div class="icon"></div>
+                                <div class="text">字体字体字体字</div>
+                              </div>
+                              <div class="sharearea">
+                                <div class="pengyouquan"><a href=""></a></div>
+                                <div class="weixin"><a href=""></a></div>
+                                <div class="weibo"><a href=""></a></div>
+                                <div class="baidu"><a href=""></a></div>
+                              </div>
+                              <div class="backtotop">
+                                <p class="backtotopupper">字体字体字体字体字体字体字体字体</p>
+                                <div class="backtotopbutton">返回顶部</div>
+                                <p class="backtotopupper">字体字体字体字体字体字体字体字体</p>
+
+
+                              </div>
+
+                            </div>
+
+                
+
+
+
+
+
+
+
+
+                  
+                            
+                <!-- <div class="bottom2">
+                <a href="" class="yuyue2">立即预约</a>  
+                </div> -->  
+                          </div>
+
+                       
+                      </div>
+                      <div class="swiper-pagination swiper-pagination-v"></div>
+                    </div>
+          
+        </div>
+        
+        <div class="swiper-slide slide3">
+          <div class="slide_cont">
+              <div class="xueqitext">
+              <a href="http://zx.wanmei.com/mobile/xueqi.html">
+               <div class="xueqitext1"></div>
+               <div class="xueqitext2"></div>
+              </a>
+            </div>
+            
+
+
+
+
+
+
+
+
+
+
+
+          </div>
+         <!--  <div class="bottom">
+          <a href="" class="yuyue">立即预约</a> 
+          </div> -->    
+
+        </div>
+          
+       </div>
+        <div class="swiper-pagination"></div>
+  </div>
+   
+  <script type="text/javascript" src="./js/jquery.js"></script> 
+  <script type="text/javascript" src="./js/swiper.3.1.2.min.js"></script> 
+  <script type="text/javascript" src="./js/base.js"></script> 
+  <script src="http://www.wanmei.com/public/js/weixin.js"></script>
+
+  <script>
+  /*http://www.swiper.com.cn/api/Swiping/2014/1217/63.html*/
+  $(function(){
+    $('.swiper-slide,.swiper-container').css('height',$(window).height()+'px');
+    var mySwiper = new Swiper ('.swiper-container-h', {
+    direction: 'horizontal',
+    initialSlide:1,
+    pagination : '.swiper-pagination-h'
+  
+    }) 
+    var mySwiper2 = new Swiper ('.swiper-container-v', {
+      direction: 'vertical',
+      pagination : '.swiper-pagination-v',
+      watchActiveIndex:true
+    }) 
+  })
+  </script>
+</body>
+</html>
